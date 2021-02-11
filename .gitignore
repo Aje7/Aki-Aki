@@ -1,5 +1,10 @@
 # Object file
 *.o
+node_modules
+*.data.json
+.*.swp
+tmp
 
 # Ada Library Information
-*.ali
+* .al
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> ora
